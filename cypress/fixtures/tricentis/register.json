@@ -1,0 +1,14 @@
+{
+    "firstName": "melinda",
+    "lastName": "fitriani",
+    "emailExist": "melidnafitriani@gmail.com",
+    "password": 123456,
+    "confirmPassword": 123456,
+    "succsessMsg": "Your registration completed",
+    "welcomeMsg": "Welcome to our store",
+    "errorFirstname": "First name is required.",
+    "errorEmail": "Email is required.",
+    "errorPassword": "Password is required.",
+    "emailExistMsg": "The specified email already exists"
+
+}
