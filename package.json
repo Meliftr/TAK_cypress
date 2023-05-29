@@ -1,0 +1,22 @@
+{
+  "name": "automation-tricentis-cypress",
+  "version": "1.0.0",
+  "description": "automation dummy web tricentis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meliftr/automation-tricentis-cypress.git"
+  },
+  "author": "melinda fitriani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meliftr/automation-tricentis-cypress/issues"
+  },
+  "homepage": "https://github.com/Meliftr/automation-tricentis-cypress#readme",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
